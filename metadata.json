@@ -1,0 +1,5 @@
+
+{
+  "name": "Budget Calculator",
+  "description": "A web application that replicates a paper budget sheet, allowing users to input their income and expenses to calculate their cashflow. The interface is designed to match the provided image, with all labels in Ukrainian."
+}
